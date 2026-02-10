@@ -1,8 +1,8 @@
-# SteamVR_icons_switcher
+# SteamVR-IconsSwitcher
 
 ![pythonversion](https://img.shields.io/badge/python-3.x-blue)
 
-SteamVR_icons_switcher is Python made tool that lets you switch SteamVR icons from Valve's icons to custom icons, and vice-versa.
+SteamVR-IconsSwitcher is Python made tool that lets you switch SteamVR icons from Valve's icons to custom icons, and vice-versa.
 
 It includes :
 
