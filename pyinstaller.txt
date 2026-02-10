@@ -1,0 +1,1 @@
+pyinstaller main.py --onefile --name "SteamVR_icons_switcher" --icon=assets/icon.ico --add-data="assets;assets"                            
