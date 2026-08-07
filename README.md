@@ -1,3 +1,7 @@
+### This repository has been archived and won't be updated as it has been merged in [SteamVR vrmonitor toolset](https://github.com/nicolas-riera/SteamVR_vrmonitor_toolset).
+
+-----
+
 # SteamVR-IconsSwitcher
 
 ![pythonversion](https://img.shields.io/badge/python-3.x-blue)
